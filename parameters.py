@@ -1,0 +1,1 @@
+headers = {"Accept-Language": "fr,en-US;q=0.9,en;q=0.8"}
